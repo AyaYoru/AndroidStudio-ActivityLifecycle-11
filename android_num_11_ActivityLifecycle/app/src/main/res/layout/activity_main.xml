@@ -30,7 +30,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/AB"
+        android:id="@+id/AtoB"
         style="@android:style/Widget.Button"
         android:layout_width="150sp"
         android:layout_height="100sp"
